@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1776074030 source:c:\users\m8128\onedrive\desktop\complete c\c++\1.1\main.cpp
+	"Wallet.h"
+
+1776074030 c:\users\m8128\onedrive\desktop\complete c\c++\1.1\include\wallet.h
+	<iostream>
+	<string>
+
+1776074030 source:c:\users\m8128\onedrive\desktop\complete c\c++\1.1\src\wallet.cpp
+	"Wallet.h"
+
