@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1777220785 source:c:\users\m8128\onedrive\desktop\complete c\c ++\5\5.3\main.cpp
+	"Inventory.h"
+
+1777220785 c:\users\m8128\onedrive\desktop\complete c\c ++\5\5.3\include\inventory.h
+	<iostream>
+	<fstream>
+	<string>
+
+1777220785 source:c:\users\m8128\onedrive\desktop\complete c\c ++\5\5.3\src\inventory.cpp
+	"Inventory.h"
+
