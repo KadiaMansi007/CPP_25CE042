@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1777221073 source:c:\users\m8128\onedrive\desktop\complete c\c ++\5\5.4\main.cpp
+	"Student.h"
+
+1777221073 c:\users\m8128\onedrive\desktop\complete c\c ++\5\5.4\include\student.h
+	<iostream>
+	<iomanip>
+	<string>
+
