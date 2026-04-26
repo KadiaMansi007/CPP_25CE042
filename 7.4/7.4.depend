@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1777223261 source:c:\users\m8128\onedrive\desktop\complete c\c ++\7\7.4\src\shape.cpp
+	"Shape.h"
+
+1777223261 c:\users\m8128\onedrive\desktop\complete c\c ++\7\7.4\include\shape.h
+	<iostream>
+	<string>
+	<cmath>
+	<iomanip>
+
+1777223425 source:c:\users\m8128\onedrive\desktop\complete c\c ++\7\7.4\main.cpp
+	"Shape.h"
+	<iostream>
+	<vector>
+
