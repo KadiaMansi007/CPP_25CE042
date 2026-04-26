@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1777215002 source:c:\users\m8128\onedrive\desktop\complete c\c ++\2\2.1\main.cpp
+	"Rectangle.h"
+
+1777215002 c:\users\m8128\onedrive\desktop\complete c\c ++\2\2.1\include\rectangle.h
+	<iostream>
+
+1777215002 source:c:\users\m8128\onedrive\desktop\complete c\c ++\2\2.1\src\rectangle.cpp
+	"Rectangle.h"
+
