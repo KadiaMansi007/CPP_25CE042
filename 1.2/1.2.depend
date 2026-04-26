@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1777211244 source:c:\users\m8128\onedrive\desktop\complete c\c ++\1\1.2\main.cpp
+	"Book.h"
+
+1777211222 c:\users\m8128\onedrive\desktop\complete c\c ++\1\1.2\include\book.h
+	<iostream>
+
+1777211244 source:c:\users\m8128\onedrive\desktop\complete c\c ++\1\1.2\src\book.cpp
+	"Book.h"
+
