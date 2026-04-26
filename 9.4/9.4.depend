@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1777225284 source:c:\users\m8128\onedrive\desktop\complete c\c ++\9\9.4\src\directory.cpp
+	"Directory.h"
+
+1777225284 c:\users\m8128\onedrive\desktop\complete c\c ++\9\9.4\include\directory.h
+	<iostream>
+	<map>
+	<vector>
+
