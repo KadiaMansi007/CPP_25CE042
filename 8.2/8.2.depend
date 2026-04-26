@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777224417 source:c:\users\m8128\onedrive\desktop\complete c\c ++\8\8.2\src\negativenumberexception.cpp
+	"NegativeNumberException.h"
+	<cmath>
+
+1777224417 c:\users\m8128\onedrive\desktop\complete c\c ++\8\8.2\include\negativenumberexception.h
+	<iostream>
+
